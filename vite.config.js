@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss()
   ],
-  base: '/Tailwindcss-project/'
+  base: '/tailwindcss-project/'
 });
