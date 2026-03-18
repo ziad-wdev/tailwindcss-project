@@ -20,14 +20,14 @@ A modern, fully responsive marketing agency landing page built with **React 19**
 
 ## 🛠️ Tech Stack
 
-| Tool | Version |
-|---|---|
-| [React](https://react.dev/) | ^19.2 |
-| [Tailwind CSS](https://tailwindcss.com/) | ^4.2 |
-| [Vite](https://vite.dev/) | ^7.3 |
+| Tool                                                     | Version                 |
+| -------------------------------------------------------- | ----------------------- |
+| [React](https://react.dev/)                              | ^19.2                   |
+| [Tailwind CSS](https://tailwindcss.com/)                 | ^4.2                    |
+| [Vite](https://vite.dev/)                                | ^7.3                    |
 | [React Compiler](https://react.dev/learn/react-compiler) | ^1.0 (via Babel plugin) |
-| [ESLint](https://eslint.org/) | ^9.39 |
-| [gh-pages](https://github.com/tschaub/gh-pages) | ^6.3 |
+| [ESLint](https://eslint.org/)                            | ^9.39                   |
+| [gh-pages](https://github.com/tschaub/gh-pages)          | ^6.3                    |
 
 ---
 
@@ -58,12 +58,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser. The page ho
 
 ## 📜 Available Scripts
 
-| Command | Description |
-|---|---|
-| `npm run dev` | Start the local development server |
-| `npm run build` | Build the optimised production bundle to `dist/` |
-| `npm run preview` | Preview the production build locally |
-| `npm run lint` | Run ESLint across the codebase |
+| Command           | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| `npm run dev`     | Start the local development server               |
+| `npm run build`   | Build the optimised production bundle to `dist/` |
+| `npm run preview` | Preview the production build locally             |
+| `npm run lint`    | Run ESLint across the codebase                   |
 
 ---
 
@@ -106,7 +106,7 @@ To point to a different repository path, update the `base` option in `vite.confi
 ```js
 // vite.config.js
 export default defineConfig({
-  base: '/your-repo-name/',
+  base: '/your-repo-name/'
   // ...
 });
 ```
